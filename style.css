@@ -1,0 +1,71 @@
+body{
+    padding: 0 200px;
+    padding-top: 0px;
+    padding-right: 400px;
+    padding-bottom: 0px;
+    padding-left: 400px;
+}
+.titulo-principal{
+    font-family: "Montserrat";
+    color: #FFB300;
+    letter-spacing: 0px;
+    line-height: 79px;
+    font-size: 89px;
+    font-weight: 884;
+}
+.autora{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: right;
+    font-size: 21px;
+    color: #000000;
+    letter-spacing: 0px;
+    line-height: 33.810001373291016px;
+}
+.Ingredientes, .preparacion{
+    text-align: left;
+    font-family: "Montserrat";
+    font-weight: black;
+    font-size: 34px;
+    color: #FFB300;
+}
+.ingrediente, .preparaçao, .parrafo-principal{
+    font-family: "Montserrat";
+    color: #000000;
+    text-align: left;
+    font-weight: SemiBold;
+    letter-spacing: 0px;
+    line-height: 33.810001373291016px;
+    font-size: 21px;
+}
+.preparo, .Rendimento{
+    font-family: "Montserrat";
+    font-weight: 900px;
+    font-size: 21px;
+    color: #000000;
+    letter-spacing: 0px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+.Rodape{
+    font-family: "Montserrat";
+    text-align: center;
+    font-size: 21px;
+    color: #0037B3;
+    text-transform: uppercase;
+    opacity: 1;
+    text-decoration: underline;
+}
+.arepa-img{
+    width: 894px;
+    height: 384px;
+    border: 5px solid #29b112f3;
+    opacity: 1;
+    
+}
+.container{
+    text-align: center;
+}
+.video-container{
+    text-align: center;
+}
